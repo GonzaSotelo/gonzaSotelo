@@ -20,7 +20,7 @@
 - Desarrollador Full Stack apacionado por el Frontend
 - En constante crecimiento y aprendizaje 
 - Mi Porfolio [link]()
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi curriculum]([https://read.cv/0xabdulkhalid](https://www.canva.com/design/DAFv2QqdqpY/-4IUaCzvgLHO88Razc_jLQ/view?utm_content=DAFv2QqdqpY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid](https://www.canva.com/design/DAFv2QqdqpY/-4IUaCzvgLHO88Razc_jLQ/view?utm_content=DAFv2QqdqpY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 <br><br>
 
