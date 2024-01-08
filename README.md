@@ -33,7 +33,7 @@
 
 <br>   
     
-- **<h2>Full Stack Development:</h2>**
+**<h2>Full Stack Development:</h2>**
 
  <h3>Javascript</h3>
  <h3>nodeJs</h3>
@@ -48,8 +48,7 @@
 
 <br>
 
-
-- **<h2>Herramientas:</h2>**
+**<h2>Herramientas:</h2>**
 
     <h3>GitHub</h3>
     <h3>Visual Studio</h3>
@@ -68,8 +67,8 @@
 
 <br>
 <br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <b> Contactame... !</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
