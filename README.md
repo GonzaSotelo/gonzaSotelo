@@ -33,7 +33,7 @@
 
 <br>   
     
-- **<h2>Full Stack Development</h2>**:
+- **<h2>Full Stack Development:</h2>**
 
  <h3>Javascript</h3>
  <h3>nodeJs</h3>
@@ -49,7 +49,7 @@
 <br>
 
 
-- **<h2>Herramientas</h2>**:
+- **<h2>Herramientas:</h2>**
 
     <h3>GitHub</h3>
     <h3>Visual Studio</h3>
