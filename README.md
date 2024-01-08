@@ -35,16 +35,27 @@
     
 - **Full Stack Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+ <h3>Javascript</h3>
+ <h3>nodeJs</h3>
+ <h3>react.js</h3>
+ <h3>Express</h3>
+ <h3>HTML</h3>
+ <h3>CSS</h3>
+ <h3>MySQL</h3>
+ <h3>Rest</h3>
+ <h3>MVC</h3>
+ <h3>Metodologías ágiles SCRUM</h3>
 
 <br>
 
 
 - **Herramientas**:
 
-    
+    <h3>GitHub</h3>
+    <h3>Visual Studio</h3>
+    <h3>Figma</h3>
+    <h3>Photoshop</h3>
+    <h3>Trello</h3>
 
 <br>
 
@@ -54,22 +65,6 @@
 <br>
 <br>
 
------
-
-<br>
-
-
-
-<br>
-
-
-
-
-<br>
-<br>
-<br>
-
------
 
 <br>
 <br>
@@ -81,24 +76,25 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/gonzasotelo/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  gonzasotelo-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<a href="https://wa.me/1124081298" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp:  Enviame Msj-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
+
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="sotelogonzalodamian@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  GonzaloSotelo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
