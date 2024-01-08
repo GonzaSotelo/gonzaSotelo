@@ -33,7 +33,7 @@
 
 <br>   
     
-- **Full Stack Development**:
+- **<h2>Full Stack Development</h2>**:
 
  <h3>Javascript</h3>
  <h3>nodeJs</h3>
