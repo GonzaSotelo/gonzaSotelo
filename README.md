@@ -1,6 +1,8 @@
 
 <h1 align="center"><b>Hola , Soy Gonzalo Sotelo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-¡Hagamos que la web sea un lugar mejor, una línea de código a la vez! 💻✨
+
+<h3 align="center"><b>¡Hagamos que la web sea un lugar mejor, una línea de código a la vez! 💻✨</b></h3>
+
 
 
 <!--  -->
