@@ -49,7 +49,7 @@
 <br>
 
 
-- **Herramientas**:
+- **<h2>Herramientas</h2>**:
 
     <h3>GitHub</h3>
     <h3>Visual Studio</h3>
