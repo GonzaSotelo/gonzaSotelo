@@ -22,8 +22,8 @@
 
 - Desarrollador Full Stack apacionado por el Frontend
 - En constante crecimiento y aprendizaje 
-- Mi Porfolio [link](https://gonzalosotelo-porfolio.netlify.app/)
-- Actualmente estoy abierto a una pasantía o una nueva oportunidad laboral, este es [mi curriculum](https://read.cv/0xabdulkhalid](https://www.canva.com/design/DAFv2QqdqpY/-4IUaCzvgLHO88Razc_jLQ/view?utm_content=DAFv2QqdqpY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+- Mi Porfolio [link](https://porfolio-gs.netlify.app/)
+
 
 <br><br>
 
